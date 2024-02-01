@@ -11,7 +11,7 @@ Bu proje, kullanıcıların GitHub profilleri aramasına ve depo listesiyle birl
 
 <h2>Kullanılan Teknolojiler ve Kütüphaneler</h2>
 
-- HTML5/CSS3/JavaScript: Kullanıcı arayüzünü oluşturmak için kullanılan temel web teknolojileri.
+- JavaScript/HTML5/CSS3: Kullanıcı arayüzünü oluşturmak için kullanılan temel web teknolojileri.
 
 - Axios: HTTP istekleri yapmak için kullanılan bir JavaScript kitaplığı.
 
@@ -21,4 +21,4 @@ Bu proje, kullanıcıların GitHub profilleri aramasına ve depo listesiyle birl
 
 <h4>Ekran Görüntüsü</h4>
  
-  ![](ekran-görüntüsü.gif)
+  ![Alt text](<ekran görüntüsü.gif>)
